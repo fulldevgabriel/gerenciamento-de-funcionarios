@@ -30,3 +30,6 @@ Abra o terminal integrado na pasta do projeto clonado.
 npm run dev
 ```
 Este comando iniciará tanto o servidor backend quanto o frontend em modo de desenvolvimento.
+
+### Obs:
+Para editar um funcionário, precisa-se passar no campo *CPF* o mesmo CPF do funcionário que deseja alterar. Caso contrário será criado um novo funcionário com o novo CPF
