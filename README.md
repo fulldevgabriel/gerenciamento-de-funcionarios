@@ -29,4 +29,4 @@ Abra o terminal integrado na pasta do projeto clonado.
 ```bash
 npm run dev
 ```
-Abra o terminal integrado na pasta do projeto clonado. Este comando iniciará tanto o servidor backend quanto o frontend em modo de desenvolvimento.
+Este comando iniciará tanto o servidor backend quanto o frontend em modo de desenvolvimento.
