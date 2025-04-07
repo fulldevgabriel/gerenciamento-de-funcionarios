@@ -14,7 +14,7 @@ Aplicação web simples, desenvolvida com React, TypeScript e Node.js, que permi
 Clone este repositório para a sua máquina local:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/fulldevgabriel/gerenciamento-de-funcionarios
 ```
 
 ### 2. Instalar as Dependências
